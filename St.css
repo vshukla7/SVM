@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image:linear-gradient( #f18f25,#e2bc92 ); 
+    background-image:linear-gradient( #f18f25,red); 
     background-repeat: no-repeat;
 }
 header {
